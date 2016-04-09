@@ -1,0 +1,74 @@
+Distance Units:
+inches
+centimeters
+miles
+meters
+nanometers
+millimeters
+kilometers
+feet
+yards
+
+Volume Units:
+liters
+milliliters
+cubic centimeters
+gallons
+quarts
+cups
+pint
+cubic meters
+cubic kilometer
+
+Mass Units:
+grams
+microgram
+milligram
+kilograms
+metric tons
+pounds
+carat
+
+Time Units:
+seconds
+minutes
+hours
+milliseconds
+nanoseconds
+microseconds
+days
+weeks
+months
+years
+decades
+centuries
+millennium
+
+Temperature Units:
+Kelvin
+Celsius
+Fahrenheit
+
+Frequency Units:
+hertz
+gigahertz
+megahertz
+kilohertz
+terahertz
+
+Energy Units:
+joule
+megajoule
+gigajoule
+watts
+calories
+gigaton
+gigawatt
+
+Currency Units:
+us dollars
+rupees
+pounds
+euros
+canada dollars
+chinese yuan
